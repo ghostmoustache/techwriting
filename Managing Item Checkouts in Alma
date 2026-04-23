@@ -1,5 +1,4 @@
 # Overview
-
 This guide explains how to check out library materials to patrons using the Alma library management system. It covers standard checkouts, special cases, and common issues.
 
 ## Check Out Items to a Patron
@@ -17,7 +16,6 @@ Confirm checkout:
 Inform the patron of the due date
 
 ## Renewal Guidelines
-
 Patrons can renew most items unless one of the following conditions applies:
 
 The item has reached the maximum number of renewals
@@ -43,9 +41,7 @@ Renewal allowed up to system limit
 Must be returned to service desk
 ## Troubleshooting
 Item Won’t Renew
-
-Check for:
-
+## Check for:
 Renewal limit reached
 Active hold by another user
 Overdue status
