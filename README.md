@@ -45,4 +45,4 @@ Focus:
 ---
 
 ## Contact
-If you'd like to get in touch, you can reach me at mathew.sweet@gmail.com
+If you'd like to get in touch, you can reach me at [mathew.sweet@gmail.com]
