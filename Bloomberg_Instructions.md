@@ -1,37 +1,107 @@
-# Getting Started with the Bloomberg Terminals
+# Getting Started with Bloomberg Terminal
 
 ## Overview
-This guide explains how to create an account and access a Bloomberg terminal for the first time.
+This guide explains how to create an account, log in, and access Bloomberg Terminal for the first time.
 
-### Create an Account and Login
-1. Log in with your BGSU username and password.
-2. Double-click the Bloomberg icon on the desktop to start the software.
-3. If you don’t already have a Bloomberg login, click “Create a New Login”. 
-4. On the next screen, where it says, "Who are you creating this login for", select "Myself", and where it asks, "Have you ever been a Bloomberg Terminal user", select, "No", then click Next.
-**Note*: If you can’t see the Next button, the resolution may need to be adjusted. Click on the Windows Start menu in the bottom left of the taskbar, then type, "resolution". You'll see an option which says, “Change the resolution of the display.” Click it, then change the setting under “Scale and layout” from 150% to 125%.
-5. On the next screen, input your first name and last name. Click in the Login Name field and it will autopopulate with a system-generated login name. Make a note of your login name.
-6. Input your phone number in the format 123-123-1234. You can use the same number for Company Phone as for Mobile Phone, but you need to have a number in both fields. The number you enter in the mobile phone field will be used for authentication.
-7.	Input your email address and click Next.
-8.	On the screen that follows, select SMS Text, and click Next. 
-9.	You’ll receive a verification code on your phone. Input the code and click next. 
-10.	Create a password in accordance with the rules on the screen: at least 1 letter, at least 1 number, between 8 and 12 characters in length, and with no special characters or spaces.
-11.	Click Next, then select "Log in Now". 
-12.	Enter your login name and password and click Login. 
+---
 
-### Navigate to the Bloomberg Market Concepts Course
-13.	There may be several Bloomberg-related windows open at this point. Find the one similar to the image below, and in the text field at the top of the screen, type in "BCER" and press Enter.
-14.	 Click on "Sign Up" in the left-hand panel, then select "I am a Learner", and check the boxes to affirm compliance with the terms and conditions. Click "Sign Up". 
-15.	On the next screen, click Launch Course.
-16.	**A browser window will open.** There will be a window which offers the option to use the Bloomberg Single-Sign-On service. Opt in if this seems useful to you, otherwise click the Skip button.
-17.	You will now be on the Bloomberg for Education welcome page. Select the Certificates tab from the horizontal navigation panel.
-18.	In the panel titled Bloomberg Market Concepts, click the Learn More button to start the course.
-19.	When you’ve finished, use the desktop shortcut labelled Log Off Computer.
+## Create an Account and Log In
 
-### Returning Users
-After the first time you login to the Bloomberg software, the process is slightly different. 
-1.	After logging in, find the window with the IBM Equity dropdown in the top left corner.
-2.	Type "BCER" in the search bar.
-3.	In the page that follows, select login in the left navigation panel. 
-4.	Select the Login button under Bloomberg Terminal Users. This will launch the browser window per step 16 above. 
+1. Log in to the workstation using your institutional credentials.
 
+2. Launch Bloomberg Terminal:
+   - Double-click the **Bloomberg** icon on the desktop
 
+3. On the login screen, select **Create a New Login**
+
+4. When prompted:
+   - Select **Myself**
+   - Select **No** for prior Bloomberg Terminal use
+   - Click **Next**
+
+> **Note:** If the **Next** button is not visible, adjust display settings:
+> - Open the Start menu and search for “resolution”
+> - Select **Change the resolution of the display**
+> - Set **Scale and layout** to 125%
+
+5. Enter your user details:
+   - First and last name  
+   - Confirm or note the auto-generated login name  
+
+6. Enter your contact information:
+   - Phone number (used for authentication)
+   - Email address  
+   - Click **Next**
+
+7. Select **SMS Text** for verification, then click **Next**
+
+8. Enter the verification code sent to your phone
+
+9. Create a password:
+   - 8–12 characters  
+   - At least one letter and one number  
+   - No spaces or special characters  
+
+10. Select **Next**, then click **Log in Now**
+
+11. Enter your login credentials and select **Login**
+
+---
+
+## Access Bloomberg Market Concepts
+
+1. Locate the main Bloomberg window
+
+2. In the search bar, enter `BCER` and press **Enter**
+
+3. Select **Sign Up**
+
+4. Choose **I am a Learner**
+
+5. Accept the terms and select **Sign Up**
+
+6. Select **Launch Course**
+
+7. When prompted:
+   - Choose whether to enable Single Sign-On  
+   - Or select **Skip**
+
+8. On the welcome page:
+   - Select the **Certificates** tab  
+   - Locate **Bloomberg Market Concepts**  
+   - Select **Learn More** to begin  
+
+9. When finished, log out using the **Log Off Computer** shortcut
+
+---
+
+## Returning Users
+
+After initial setup, login is streamlined:
+
+1. Launch Bloomberg Terminal
+
+2. Enter your login credentials
+
+3. In the search bar, enter `BCER`
+
+4. Select **Login** from the left panel
+
+5. Select **Login** under **Bloomberg Terminal Users**
+
+---
+
+## Troubleshooting
+
+### “Next” button not visible
+- Adjust display scaling to 125% in system settings
+
+### Unable to log in
+- Confirm correct login name and password  
+- Ensure phone is available for verification  
+
+---
+
+## Notes
+- Always log out after use  
+- Keep your phone accessible for authentication during login  
