@@ -1,12 +1,15 @@
-# About Me
-Hello and welcome to my Technical Writing Portfolio. My name is Mathew, and I am passionate about making complex ideas easy to understand. My background is in Library Science, and I specialize in creating clear, concise, and informative documentation.
+# Technical Writing Portfolio – Mathew Sweet
+
+Technical writer with 20+ years of experience creating user-focused documentation for complex systems and workflows.
+
+My background includes developing user guides, process documentation, and system workflows in a high-volume service environment, with a focus on clarity, usability, and accessibility.
 ## Overview
-This repository provides some samples of my technical writing, showcasing my ability to break down complex information of various kinds into user-friendly content.
 This portfolio includes selected documentation samples demonstrating:
-- User guides
-- Process documentation
-- System workflows
-- Training materials
+
+- Task-based user guides  
+- System and software documentation  
+- Process and workflow documentation  
+- Training materials  
 
 ## Samples
 
@@ -15,7 +18,7 @@ Task-based documentation for managing item checkouts in a library system.
 
 Focus:
 - Step-by-step workflows
-- Edge cases
+- Edge cases and exception handling  
 - Troubleshooting
 
 [View document](Managing_Item_Checkouts_in_Alma.md)
@@ -27,22 +30,24 @@ End-user help documentation for public printing services.
 
 Focus:
 - Clear instructions for non-technical users
-- UI interaction guidance
+- UI-based task guidance
 
 [View document](Guest_Printing_Guide.md)
 
 ---
 
-### 3. Bloomberg Instructions
-End-user step-by-step guide to first use of technical software
+### 3. Bloomberg Setup Guide
+
+User onboarding documentation for accessing and configuring Bloomberg Terminal.
 
 Focus:
-- UI navigation
-- Initial setup steps
+- Initial setup and account creation  
+- UI navigation  
+- First-time user workflow  
 
 [View document](Bloomberg_Instructions.md)
 
 ---
 
 ## Contact
-If you'd like to get in touch, you can reach me at [mathew.sweet@gmail.com]
+Email [mathew.sweet@gmail.com]
