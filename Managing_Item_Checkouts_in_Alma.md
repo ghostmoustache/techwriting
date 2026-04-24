@@ -3,54 +3,44 @@ This guide explains how to check out library materials to patrons using the Alma
 ## Check Out Items to a Patron
 Notes
 * Only current students, faculty, staff, and courtesy card holders can check out items
-* Ask to see the patron’s BGSU ID first. If they don’t have that, ask for some form of official photo ID such as a driver's license, state ID, passport, etc. If they don’t have any of those things, you can verify their identity by asking them to show their Canvas dashboard page on their device.
+* Ask to see the patron’s **BGSU ID** first. If they don’t have that, ask for some form of **official photo ID** such as a driver's license, state ID, passport, etc. If they don’t have any of those things, you can verify their identity by asking them to show their **Canvas dashboard page** on their device.
 * There is no amount of money owed or overdue books that will block people from checking out more items, as long as they are a current student, faculty, or staff. 
 
 Steps
-* Open the patron search: press Alt + W to open Manage Patron Services
-* Identify the patron:
-* Scan their ID card or search by name if needed
-Open the patron record:
-Select the correct user from search results
-Scan item barcodes:
-Each scanned item will be added to the patron’s account
-Confirm checkout:
-Inform the patron of the due date
+1.	While in Alma, click Alt+W to bring up the Patron Identification screen. 
+2.	Scan the patron’s BGSU ID card to bring up their account. If they don’t have their card and they don’t know their number, search for their name by typing it in the open text field and selecting it from the drop-down menu. Once you’ve found them, select the Go button.
+3.	The patron’s account will open. Scan the barcode stickers on their books. 
+4.	Desensitize the books by passing them over the desensitizer.
+5.	Let the patron know the due date for the return of the items. 
+
+## Interlibrary Loan (ILL) Checkouts
+1.	Bring up the patron’s account in Alma as you would for a regular check out. Note: the book will not show in their account.
+2.	Let the patron know the due date, as written on the cover slip.
+3.	Desensitize the item.
+4.	Write your initials and the date on the pink slip, then put the slip in the basket on the shelf behind the supervisor’s desk.
+Some ILL books are library use only, and will have a yellow flag. When the patron returns the item, ask whether they will be back to look at it again. If they haven’t finished with it, put it back on the hold shelf for next time.
+
+## Laptop Checkouts
+MacBooks check out like any other item, but they check out for **7 days** and you must **issue a charger** at the same time. To borrow a laptop, patrons need to have completed a Laptop Agreement, the green form on top of the MacBook cart.
+1.	Check the patron’s record to see if they have already completed a Laptop Agreement. If they have, it will show in their record in the User Notes section in the left-hand navigation panel.
+2.	If they haven’t yet completed a Laptop Agreement, have them read and sign the form. 
+3.	Fill in the staff area on the back of the form yourself, with the patron’s ID number, your name, and the time. 
+4.	Hand the completed form to the Desk Supervisor.
+5.	If the patron hasn’t borrowed one of our laptops before, let them know that they need to log in while they’re on campus. When they’ve done that once, they’ll be able to use the computer off campus. If they don’t, they won’t.
+6.	**Do not desensitize.**
+7.	Laptops can be renewed 3 times as long as there are no holds waiting.
+8.	Laptops need to be checked in at the desk when they’re returned. Make sure the charger is with the MacBook. If it isn’t, tell the patron to bring the MacBook back with the charger: i.e., **don’t check in a MacBook when the charger isn’t present**.
+9.	If all of the MacBooks are currently on loan to other patrons, the patron can place a hold on one.
 
 ## Renewal Guidelines
-Patrons can renew most items unless one of the following conditions applies:
+Patrons can renew their items by signing into their library account. The quickest route for a patron to access their account is the “My Account” link in the top navigation bar on the library’s home page.
 
-The item has reached the maximum number of renewals
-Another patron has placed a hold
-The item type is non-renewable (e.g., equipment, reserves)
-Renewal Methods
-Online via patron account
-In person at service desk
-By phone or email
+Patrons can request a renewal in person, over the phone, email, or via chat. Verify the patron’s identity before giving any information about titles of books checked out, by asking for two pieces of information, for example, name and ID number. See the appendix for a list of the item renewal limits.
 
-## Special Case: Interlibrary Loan (ILL)
-ILL items do not appear in the standard account view
-Due dates are listed on the item slip
-Renewal requests must be submitted by the patron
-Approval is determined by the lending institution
-## Special Case: Laptop Checkout
-Requirements
-Patron must complete a Laptop Agreement
-Key Rules
-* Loan period: 7 days
-* Charger must be included
-* Renewal allowed up to system limit
-* Must be returned to service desk
-## Troubleshooting
-Item Won’t Renew
-## Check for:
-Renewal limit reached
-Active hold by another user
-Overdue status
-Incorrect Due Date
-Verify patron account expiration
-Update account if needed
-🧠 Notes
-Always verify patron identity before accessing account details
-Follow system prompts for holds and restrictions
-Escalate unresolved issues to a supervisor
+Reasons items don't renew:
+*	The item has too many renewals. Patrons can renew most items. The message “maximum renewals reached” will indicate that they have exceeded the maximum amount. If the items are owned by BGSU and there are no holds on them, they can be presented in person, checked in, then checked back out to reset their renewals. 
+*	Another patron has requested the item. The current borrower must return it. 
+*	The patron is trying to renew an overdue book in their library account. Overdue books can only be renewed from within Alma.
+*	The item is not a renewable item. Items which can’t be renewed include reserves, headphones, Bloomberg laptops, chargers, and headphones. 
+
+
