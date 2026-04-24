@@ -18,7 +18,7 @@ Focus:
 - Edge cases
 - Troubleshooting
 
-[View document]
+[View document](Managing_Item_Checkouts_in_Alma.md)
 
 ---
 
@@ -28,6 +28,21 @@ End-user help documentation for public printing services.
 Focus:
 - Clear instructions for non-technical users
 - UI interaction guidance
+
+[View document](Guest_Printing_Guide.md)
+
+---
+
+### 3. Bloomberg Instructions
+End-user step-by-step guide to first use of technical software
+
+Focus:
+- UI navigation
+- Initial setup steps
+
+[View document](Bloomberg_Instructions.md)
+
+---
 
 ## Contact
 If you'd like to get in touch, you can reach me at mathew.sweet@gmail.com
