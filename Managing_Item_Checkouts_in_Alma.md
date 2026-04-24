@@ -1,12 +1,15 @@
 # Overview
 This guide explains how to check out library materials to patrons using the Alma library management system. It covers standard checkouts, special cases, and common issues.
 ## Check Out Items to a Patron
+Notes
+* Only current students, faculty, staff, and courtesy card holders can check out items
+* Ask to see the patron’s BGSU ID first. If they don’t have that, ask for some form of official photo ID such as a driver's license, state ID, passport, etc. If they don’t have any of those things, you can verify their identity by asking them to show their Canvas dashboard page on their device.
+* There is no amount of money owed or overdue books that will block people from checking out more items, as long as they are a current student, faculty, or staff. 
+
 Steps
-Open the patron search:
-Press Alt + W to open Manage Patron Services
-Identify the patron:
-Scan their ID card
-Or search by name if needed
+* Open the patron search: press Alt + W to open Manage Patron Services
+* Identify the patron:
+* Scan their ID card or search by name if needed
 Open the patron record:
 Select the correct user from search results
 Scan item barcodes:
