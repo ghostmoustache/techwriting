@@ -1,6 +1,6 @@
 # Technical Writing Portfolio – Mathew Sweet
 
-Technical writer with 20+ years of experience creating user-focused documentation for complex systems and workflows.
+Content designer, information architect, and technical writer with 20+ years of experience creating user-focused documentation for complex systems and workflows.
 
 My background includes developing user guides, process documentation, and system workflows in a high-volume service environment, with a focus on clarity, usability, and accessibility.
 ## Overview
